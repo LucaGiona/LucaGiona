@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My name is Luca and I live on the first floor
+
+~~~
+I am at the bginning of a journey in the coding world ---
+~~~
+```html
+<html>
+  <head></head>
+      <body>
+        <h1> May the voyage beginn!</h1>
+      </body>
+</html>
+```
+🙌 :v: 
