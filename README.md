@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## My name is Luca and I live on the first floor
 
 ~~~
-I am at the bginning of a journey in the coding world ---
+I am at the beginning of a journey in the coding world ---
 ~~~
 ```html
 <html>
