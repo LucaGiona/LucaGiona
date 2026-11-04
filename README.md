@@ -27,8 +27,7 @@ I built this for my placement on an ENT (HNO) ward: a glossary of ~160 abbreviat
 | **Cost Calculation Stopwatch** | At the bar I wanted to know what a prep step really costs, so I built a tool that times each step and turns the result into a price and revenue calculation | [Live](https://maranta.dev/projekte/timer/index.html) · [Code](https://github.com/LucaGiona/Cost_Calculation_Stoppwatch) |
 | **Care Quizzes** | Quiz apps for my nursing training. Several topics exist as a ChatGPT version *and* a Claude version, so I can compare how the two AIs structure the same task | [Live](https://maranta.dev/projekte/care-quizzes/index.html) · [Code](https://github.com/LucaGiona/care-quizzes) |
 | **Anatomy Flashcards** | Leitner-system flashcards for medical terms (Latin/German/English) | [Live](https://maranta.dev/projekte/karteikarten/index.html) · [Code](https://github.com/LucaGiona/karteikarten-app) |
-| **Cocktail Collection** | Recipe collection with filters and your own drinks saved in the browser 
-| [Live](https://maranta.dev/html/drinks.html) 
+| **Cocktail Collection** | Recipe collection with filters and your own drinks saved in the browser | [Live](https://maranta.dev/html/drinks.html) 
 WORK IN PROGRESS|
 
 All projects with screenshots: **[maranta.dev](https://maranta.dev)**
@@ -36,7 +35,7 @@ All projects with screenshots: **[maranta.dev](https://maranta.dev)**
 ## Tech I work with
 
 **Frontend:** HTML, CSS, JavaScript (ES modules, DOM APIs), responsive and accessible markup<br>
-**Backend:** PHP, Python, Django fundamentals<br>
+**Backend:** PHP, Python, Django fundamentals, Go<br>
 **Web apps:** PWAs, Service Workers, localStorage, REST<br>
 **Tools:** Git, GitHub, GitHub Actions, VS Code, Docker (learning), AI models and more...<br>
 **Exploring:** local LLMs, AI-assisted development, personal knowledge management
