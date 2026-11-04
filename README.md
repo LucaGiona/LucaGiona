@@ -1,4 +1,4 @@
-# Hi, IAM Luca 
+# Hi, I AM Luca 
 
 **Web developer in Berlin · building practical apps for real everyday problems**
 
