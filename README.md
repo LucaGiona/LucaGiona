@@ -8,6 +8,9 @@ I spent years in hospitality, including managing and co-running a cocktail bar i
 
 Today I build websites, progressive web apps and small tools. I'm also training to become a qualified nurse, and a lot of my projects come straight out of that work: from the hospital ward and from the bar.
 
+Visit me:
+**[maranta.dev](https://maranta.dev)** 
+
 ## Featured: HNO Learning App
 
 **[Live](https://lucagiona.github.io/hno_miniapp/) · [Code](https://github.com/LucaGiona/hno_miniapp)**
